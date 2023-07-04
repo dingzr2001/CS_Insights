@@ -18,14 +18,15 @@
 - 大小适当，满足github要求。
 
 考虑到仓库的大小，请尽量以链接的形式添加你的资料。推荐链接到你的或者他人的github仓库。
-### 当前的仓库数据：
+
 
 <p>
+	当前的仓库数据：
 	<img alt="Stars" src="https://img.shields.io/github/stars/dingzr2001/CS_Insights?style=flat-square&labelColor=343b41"/>
 	<img alt="Forks" src="https://img.shields.io/github/forks/dingzr2001/CS_Insights?style=flat-square&labelColor=343b41"/>
 	<img alt="Issues" src="https://img.shields.io/github/issues/dingzr2001/CS_Insights?style=flat-square&labelColor=343b41"/>
 	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dingzr2001/CS_Insights?style=flat-square&labelColor=343b41"/>
-</p>p>
+</p>
 
 我们的仓库是这样组织的：
 
