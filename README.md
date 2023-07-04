@@ -1,4 +1,4 @@
-<p>
+<p align="center">
     <img src="https://cdn.pixabay.com/photo/2017/03/16/20/44/galaxy-2150186_1280.png" width="300px" align="center">
     <h1 align="center">
         CS Insights
