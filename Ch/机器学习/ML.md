@@ -19,3 +19,6 @@
 
 - 斯坦福大学图神经网络课程（CS224W: Machine Learning with Graphs）：http://web.stanford.edu/class/cs224w/
 
+### 强化学习
+
+- 蘑菇书EasyRL：https://datawhalechina.github.io/easy-rl/#/
